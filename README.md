@@ -15,7 +15,4 @@ As a complement to my technical training, I'm also studying English to improve m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iberoFPV&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iberoFPV&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=iberoFPV&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
